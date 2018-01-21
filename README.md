@@ -10,10 +10,10 @@ Here are few examples:
 Web pages imitations:
 1. [Apple old website imitation ( Welcome page only)](https://lstroh.github.io/Apple-old-web-site-imitation/)
 2. [Mint.com sign up page imitation](https://lstroh.github.io/Mint.com-sign-up-page-imitation/)
-3. [Newsweek imitation (Welcome page only)](https://lstroh.github.io/Newsweek-imitation/)
+3. [Newsweek imitation (Welcome page only) - responsive with Bootstrap](https://lstroh.github.io/Newsweek-imitation/)
 
 Small Vanilla JavaScipt pages:
-1. [Online Calculator](https://lstroh.github.io/Calculator/)
+1. [Online Calculator - responsive with Bootstrap](https://lstroh.github.io/Calculator/)
 2. [Etch-A-Sketch](https://lstroh.github.io/Etch-A-Sketch/)
 3. [Rock Paper Scissors game](https://lstroh.github.io/Rock-Paper-Scissors/)
 
