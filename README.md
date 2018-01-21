@@ -1,5 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Liron Stroh's GitHub Pages
 
+In this GitHuB pages you can see my latest projects.
+
+Currently I am still working my way into Fronted and backed Web development.
+
+I have made few pages using HTML/HTML5 , CSS/CSS3 or Sass , Bootstrap and Vanilla JavaScript.
+
+Here are few examples:
+Web pages imitations:
+1.
+2.
+3.
+
+Small Vanilla JavaScipt pages:
+1.
+2.
+3.
 You can use the [editor on GitHub](https://github.com/lstroh/Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
