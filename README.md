@@ -14,6 +14,9 @@ Web pages imitations:
 
 Small Vanilla JavaScipt pages:
 1. [Online Calculator](https://github.com/lstroh/Projects/blob/master/Vanilla%20JavaScript/Calculator/index.html)
+
 2.[Etch-A-Sketch](https://github.com/lstroh/Projects/blob/master/Vanilla%20JavaScript/Etch-A-Sketch/index.html)
+
 3.[Rock Paper Scissors game](https://github.com/lstroh/Projects/blob/master/Vanilla%20JavaScript/Rock%20Paper%20Scissors/index.html)
+
 
