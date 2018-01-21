@@ -13,7 +13,7 @@ Web pages imitations:
 3.
 
 Small Vanilla JavaScipt pages:
-1. [Online Calculator](]https://github.com/lstroh/Projects/blob/master/Vanilla%20JavaScript/Calculator/index.html)
+1. [Online Calculator](https://github.com/lstroh/Projects/blob/master/Vanilla%20JavaScript/Calculator/index.html)
 2.
 3.
 
