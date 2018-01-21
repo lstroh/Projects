@@ -7,6 +7,7 @@ Currently I am still working my way into Fronted and backed Web development.
 I have made few pages using HTML/HTML5 , CSS/CSS3 or Sass , Bootstrap and Vanilla JavaScript.
 
 Here are few examples:
+
 Web pages imitations:
 1. [Apple old website imitation ( Welcome page only)](https://lstroh.github.io/Apple-old-web-site-imitation/)
 2. [Mint.com sign up page imitation](https://lstroh.github.io/Mint.com-sign-up-page-imitation/)
