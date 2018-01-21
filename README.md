@@ -13,7 +13,7 @@ Web pages imitations:
 3.
 
 Small Vanilla JavaScipt pages:
-1.
+1. https://github.com/lstroh/Projects/blob/master/Vanilla%20JavaScript/Calculator/index.html
 2.
 3.
 You can use the [editor on GitHub](https://github.com/lstroh/Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
