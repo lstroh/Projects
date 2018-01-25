@@ -17,5 +17,6 @@ Small Vanilla JavaScipt pages:
 1. [Online Calculator - responsive with Bootstrap](https://lstroh.github.io/Calculator/)
 2. [Etch-A-Sketch](https://lstroh.github.io/Etch-A-Sketch/)
 3. [Rock Paper Scissors game](https://lstroh.github.io/Rock-Paper-Scissors/)
+4. [Library](https://lstroh.github.io/Library/)
 
 
